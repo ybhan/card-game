@@ -1,4 +1,6 @@
-A web-based rougelike card game implemented by JavaScript (ES6) using Phaser 3.
+## 👾 Card Paladin
+
+A web-based rouge-like card game implemented by JavaScript (ES6) using Phaser 3.
 
 Play: https://ybhan.github.io/card-game/
 
